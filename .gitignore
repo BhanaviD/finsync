@@ -39,3 +39,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# secrets and personal files
+.env
+bank statement.pdf
